@@ -87,10 +87,10 @@ li{
     width: 45px;
     margin-right: 12px;
     
-    -webkit-transition: -webkit-transfomr .4s ease-in;
-            transition: -webkit-transfomr .4s ease-in;
-            transition:         transfomr .4s ease-in;
-            transition:         transfomr .4s ease-in;
+    -webkit-transition: -webkit-transform .4s ease-in;
+            transition: -webkit-transform .4s ease-in;
+            transition:         transform .4s ease-in;
+            transition:         transform .4s ease-in;
 }
 
 .social-image:hover{
